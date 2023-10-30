@@ -6,11 +6,11 @@ public class programa {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Introduce tu primer numero: ");
-		int numero1 = Integer.parseInt(sc.nextLine());
+		int numero11 = Integer.parseInt(sc.nextLine());
                 System.out.print("Introduce tu segundo numero: ");
-		int numero2 = Integer.parseInt(sc.nextLine());
+		int numero22 = Integer.parseInt(sc.nextLine());
 		
-		int suma = numero1 + numero 2;
+		int suma1 = numero11 + numero 22;
 		
 		System.out.println("La suma de los dos numeros introducidos es " + suma);
 		
